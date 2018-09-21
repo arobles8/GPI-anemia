@@ -65,7 +65,7 @@ a:hover {
 	float: right;
 	margin: 0;
 	padding: 0;
-	color: #000000;
+	color: #054152;
 }
 
 #logo h1, #logo p {
@@ -77,8 +77,8 @@ a:hover {
 	float: left;
 	padding-top: 223px;
 	letter-spacing: -1px;
-	text-align: right;
-	text-transform: lowercase;
+	text-align: left;
+	text-transform: uppercase;
 	font-size: 3.8em;
 }
 
@@ -88,7 +88,7 @@ a:hover {
 	padding: 250px 0 0 10px;
 	font: normal 14px Georgia, "Times New Roman", Times, serif;
 	font-style: italic;
-	color: #FFFFFF;
+	color: #054152;
 } 
 
 #logo a {
