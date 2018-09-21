@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://arobles8.github.io/GPI-anemia/#"
+
+<html xmlns="https://arobles8.github.io/GPI-anemia/#"
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title> LA ANEMIA EN EL PERÚ</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="menu">
+		<ul>
+			<li class="current_page_item"><a href="#">¿QUÉ ES LA ANEMIA?</a></li>
+            <li><a href="#">CAUSAS</a></li>
+			<li><a href="#">EFECTOS</a></li>
+			<li><a href="#">SOLUCIONES</a></li>
+			<li><a href="#">ESTADISTICAS</a></li>
+			
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="header">
+		<div id="logo">
+			<h1><a href="#">LA ANEMIA EN EL PERÚ   </a></h1>			
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">LA ANEMIA   </a></h2>
+				<p class="meta"><span class="date">September 21, 2018</span><span class="posted">Posted by <a href="#">Someone</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">					
+					<p>La anemia se define por la reducción de la concentración de la hemoglobina (proteína encargada de transportar el oxígeno a los tejidos), por debajo de los niveles considerados normales para una determinada edad, sexo y altura sobre el nivel del mar debido a la deficiencia de hierro. [*] .</p>
+					<p class="links"><a href="#">Read More</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Comments</a></p>
+				</div>
+			</div>
+			<div class="post">
+				<h2 class="title"><a href="#">DATO IMPACTATE DE LA ANEMIA </a></h2>
+				<p class="meta"><span class="date">September 21, 2018</span><span class="posted">Posted by <a href="#">Someone</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>Perú se encuentra en tercer lugar con mayor prevalencia de casos de anemia respecto a América Latina y la cifra de esta enfermedad,  durante los últimos 10 años, ha sido mayor al 40% según la Organización Mundial de Salud (OMS) lo cual representa un riesgo en la salud pública. [**].</p>
+					<p class="links"><a href="#">Read More</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Comments</a></p>
+				</div>
+			</div>
+			<div class="post">
+				<h2 class="title"><a href="#">PROBLEMA </a></h2>
+				<p class="meta"><span class="date">September 21, 2018</span><span class="posted">Posted by <a href="#">Someone</a></span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+					<p>Uno de los factores principales de la presencia de anemia en el distrito Capazo, provincia de El Collao - Ilave, departamento de Puno, que afecta a los niños y bebés entre 6 meses a 3 años de edad, es la falta de una cultura alimentaria responsable y con plena conciencia de su relación con la salud, de los pobladores de este distrito, especialmente los padres de familia. 
+Pobre ingesta de alimentos ricos en hierro (y micronutrientes) desde los 6 meses y en general, especialmente hierro de buena biodisponibilidad (hemínico) de origen animal.</p>
+					<p class="links"><a href="#">Read More</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Comments</a></p>
+				</div>
+			</div>
+		<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+		<div id="sidebar">
+			<ul>
+				<li>
+					<div id="search" >
+					<form method="get" action="#">
+						<div>
+							<input type="text" name="s" id="search-text" value="" />
+							<input type="submit" id="search-submit" value="GO" />
+						</div>
+					</form>
+					</div>
+					<div style="clear: both;">&nbsp;</div>
+				</li>
+				<li>
+					<h2>¿QUIENES SOMOS?</h2>
+					<p>Somos estudiantes de segundo ciclo de la carrera de Ingeniería Biomédica que estamos investigando acerca de lo que está pasando respecto a la anemia, de qué forma afecta, a quienes afecta esta enfermedad, los lugares más perjudicados y los impactos que origina dicho mal.
+                    Nataly Asto GarayAriana Figueroa Chávez
+                    Mariana Flores Morón
+                    Mishelle Llanos Guerrero
+                    Anabeli Robles Chávez.</p>
+				</li>
+				<li>
+					<h2>Categories</h2>
+					<ul>
+						<li><a href="#">Aliquam libero</a></li>
+						<li><a href="#">Consectetuer adipiscing elit</a></li>
+						<li><a href="#">Metus aliquam pellentesque</a></li>
+						<li><a href="#">Suspendisse iaculis mauris</a></li>
+						<li><a href="#">Urnanet non molestie semper</a></li>
+						<li><a href="#">Proin gravida orci porttitor</a></li>
+					</ul>
+				</li>
+				<li>
+					<h2>Blogroll</h2>
+					<ul>
+						<li><a href="#">Aliquam libero</a></li>
+						<li><a href="#">Consectetuer adipiscing elit</a></li>
+						<li><a href="#">Metus aliquam pellentesque</a></li>
+						<li><a href="#">Suspendisse iaculis mauris</a></li>
+						<li><a href="#">Urnanet non molestie semper</a></li>
+						<li><a href="#">Proin gravida orci porttitor</a></li>
+					</ul>
+				</li>
+				<li>
+					<h2>Archives</h2>
+					<ul>
+						<li><a href="#">Aliquam libero</a></li>
+						<li><a href="#">Consectetuer adipiscing elit</a></li>
+						<li><a href="#">Metus aliquam pellentesque</a></li>
+						<li><a href="#">Suspendisse iaculis mauris</a></li>
+						<li><a href="#">Urnanet non molestie semper</a></li>
+						<li><a href="#">Proin gravida orci porttitor</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	</div>
+	</div>
+	<!-- end #page -->
+</div>
+	<div id="footer">
+		<p><a href="http://www.norfipc.com/">Plantillas Gratis</a>.</p>
+	</div>
+	<!-- end #footer -->
+</body>
+</html>
